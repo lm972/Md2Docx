@@ -1,0 +1,38 @@
+Text #4 T=%header{13210110059}\n%footer{%right %pagenum  / %numpages} A=
+Headline #8 T=论文标题 A=0
+Headline #11 T=论文副标题 A=-1
+Headline #15 T=第一级编号标题 A=1
+Headline #16 T=第二级编号标题 A=2
+Text #18 T=正文内容 A=
+Headline #20 T=第三级编号标题 A=3
+Text #22 T=正文内容 A=
+Text #24 T=jishuqi = %C{jishuqi} A=
+Text #26 T=jishuqi = %C{jishuqi} A=
+Image #28 T=imagekey A=/Users/ZTH/Projects/Md2Docx/test.jpg 图 杯子
+Text #29 T=\\ slash A=
+Text #31 T=%concat{我 觉得 是 这样的} = 我觉得是这样的 A=
+Text #33 T=@{这样呢？} 表示一个footnote A=
+Ul #35 T=一个项目\n另一个项目\n A=
+Ol #38 T= 还有编号项\n 还有编号的！\n A=
+Text #41 T=又是正文 A=
+Headline #43 T=又一个二级标题 A=2
+BlockQuote #45 T=缩进的引用 A=
+BlockQuote #47 T=继续缩进的引用 A=
+Text #49 T=希望你段落之间有空行。 A=
+Headline #52 T=交叉引用 A=1
+Text #54 T=怎么引用这里面的题注项目呢？\n请参见图 %ref{imagekey}\n就引用了前面这张图。 A=
+Headline #58 T=表格 A=1
+Text #59 T=用tab缩进和分割的就可以了。\n如果tab之后有一个|，我们就根据|来画线。比如说 A=
+Table #62 T=表格索引1\ncol1	col2	col3\nitem	1		2\nitem	3		4 A= 表
+Text #67 T=多个连续的tab被看做是一个tab。这样就有一个最基本的表格.表格应该在一个“段落”中解决。如果我们要确定哪里要画线、哪里不用，用下面的格式。 A=
+Table #69 T=表格索引3\nname	|	col2		col3\nitem1	|	1			2\nitem2	|	3			4 A= 表 我不知道应该怎么说啊
+Text #74 T=很直观。不过目前只考虑整行都要画线的情况。如果有的地方要划有的地方不要。。。我还没想好怎么办。\n如你所见这些都是连贯的。^{脚注} A=
+Headline #77 T=定义替换符号 A=1
+Text #78 T=打中文的时候很开心结果突然要打英文的标点符号一定有点不爽。\n我还是没想好怎么办。也许是这样的： A=
+Text #81 T=%alias{[ 【}\n%alias{! ！} A=
+Text #84 T=%style{caption}\n诸如此类的……\n%style A=
+Text #88 T=然后似乎还要定义引用的格式。比方说 A=
+BlockQuote #90 T=\%crosscite 就是说内部交叉引用的时候显示的是标题和编号。arg的编号和{}中空格分隔的标号一致。\%=_name_:_format_ 就是说将命令 \%_name_ 展开为 \%_format_ 来处理。arg的编号从0开始。\%=newcommand:\%cite({0}) A=
+PF:Alignment=Left,PF:NoSpaceBetweenParagraphsOfSameStyle=False,PF:KeepTogether=False,PF:KeepWithNext=False,PF:PageBreakBefore=False,PF:SuppressLineNumbers=False,PF:SuppressAutoHyphens=False,PF:WidowControl=True,PF:Bidi=False,PF:LeftIndent=0,PF:RightIndent=0,PF:FirstLineIndent=0,PF:SpaceBeforeAuto=False,PF:SpaceAfterAuto=False,PF:SpaceBefore=0,PF:SpaceAfter=0,PF:LineSpacingRule=Multiple,PF:LineSpacing=12,PF:IsHeading=False,PF:IsListItem=False,PF:OutlineLevel=BodyText,PF:LinesToDrop=0,PF:DropCapPosition=None,PF:StyleName=Normal,PF:StyleIdentifier=Normal,FT:Name=Times New Roman,FT:NameAscii=Times New Roman,FT:NameBi=Times New Roman,FT:NameFarEast=宋体,FT:NameOther=Times New Roman,FT:Size=12,FT:SizeBi=12,FT:Bold=False,FT:BoldBi=False,FT:Italic=False,FT:ItalicBi=False,FT:StrikeThrough=False,FT:DoubleStrikeThrough=False,FT:Shadow=False,FT:Outline=False,FT:Emboss=False,FT:Engrave=False,FT:Superscript=False,FT:Subscript=False,FT:SmallCaps=False,FT:AllCaps=False,FT:Hidden=False,FT:Underline=None,FT:Scaling=100,FT:Spacing=0,FT:Position=0,FT:Kerning=0,FT:TextEffect=None,FT:Bidi=False,FT:ComplexScript=False,FT:NoProofing=False,FT:LocaleId=1024,FT:LocaleIdBi=1024,FT:LocaleIdFarEast=1024,FT:StyleName=Default Paragraph Font,FT:StyleIdentifier=DefaultParagraphFont,
+Line 81: Unrecognized command `alias`.
+Line 81: Unrecognized command `alias`.

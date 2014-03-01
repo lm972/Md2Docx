@@ -1,0 +1,15 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="03/01/2014 05:00:26">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MdParser.cs">
+    <Files>
+      <File FileName="Main.cs" Line="25" Column="1" />
+      <File FileName="MdEntities.cs" Line="11" Column="3" />
+      <File FileName="MdParser.cs" Line="414" Column="12" />
+      <File FileName="KeyCounter.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

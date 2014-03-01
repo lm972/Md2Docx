@@ -1,0 +1,9 @@
+/Users/ZTH/Projects/Md2Docx/DocX/obj/Debug/Novacode.Resources.default_styles.xml.gz
+/Users/ZTH/Projects/Md2Docx/DocX/obj/Debug/Novacode.Resources.styles.xml.gz
+/Users/ZTH/Projects/Md2Docx/DocX/obj/Debug/Novacode.Resources.numbering.xml.gz
+/Users/ZTH/Projects/Md2Docx/DocX/obj/Debug/Novacode.Resources.numbering.default_bullet_abstract.xml.gz
+/Users/ZTH/Projects/Md2Docx/DocX/obj/Debug/Novacode.Resources.numbering.default_decimal_abstract.xml.gz
+/Users/ZTH/Projects/Md2Docx/DocX/bin/Debug/DocX.dll.mdb
+/Users/ZTH/Projects/Md2Docx/DocX/bin/Debug/DocX.dll
+/Users/ZTH/Projects/Md2Docx/DocX/obj/Debug/DocX.dll
+/Users/ZTH/Projects/Md2Docx/DocX/obj/Debug/DocX.dll.mdb
